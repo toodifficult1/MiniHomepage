@@ -24,3 +24,8 @@
 2. 정보처리기사 실기 공부
 3. JAVA외 다른 언어 공부 
 4. 간단한 개인 프로젝트 진행해보기
+
+---
+
+## 좋아하는 동물
+![고양이](https://github.com/toodifficult1/MiniHomepage/blob/main/img/Test_Cat.jpg?raw=true)
