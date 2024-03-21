@@ -1,6 +1,6 @@
 # 이상준 미니 홈페이지
 
-## 깃허브에서 파일 수정
+## 깃허브에서 파일 수정 1
 
 ## 기본 정보
 
@@ -35,3 +35,5 @@
 ---
 ## 좋아하는 음식
 ![돈까스](https://github.com/toodifficult1/MiniHomepage/blob/main/img/%EB%8F%88%EA%B9%8C%EC%8A%A4.jpg?raw=true)
+
+### 깃허브에서 파일 수정 2
