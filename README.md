@@ -31,3 +31,7 @@
 
 ## 좋아하는 동물
 ![고양이](https://github.com/toodifficult1/MiniHomepage/blob/main/img/Test_Cat.jpg?raw=true)
+
+---
+## 좋아하는 음식
+![돈까스](https://github.com/toodifficult1/MiniHomepage/blob/main/img/%EB%8F%88%EA%B9%8C%EC%8A%A4.jpg?raw=true)
